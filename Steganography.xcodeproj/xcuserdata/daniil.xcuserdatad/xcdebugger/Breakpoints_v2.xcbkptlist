@@ -3,4 +3,182 @@
    uuid = "209461CA-8E3A-448D-835D-31176E76B0D5"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3E1943E-1731-4C14-9564-7FEB6764307F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Steganography/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "hide(file)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2194288-E241-44B4-B423-55A5B78955CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Steganography/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "unhide()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3688B99-9BE5-4B96-A20E-2D5C92A92B19"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Steganography/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "write_info_into_image_bmp(size, size_image, bytes, image, degree)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C3688B99-9BE5-4B96-A20E-2D5C92A92B19 - 2d8ed7a3260cb105"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "write_size_into_image_bmp"
+                  moduleName = "Steganography"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniil/Desktop/University/2%20Semester/%D0%9E%D0%98%D0%91/Steganography_OIB8/Steganography/Steganography/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "C3688B99-9BE5-4B96-A20E-2D5C92A92B19 - 1e5e3fb5e195be1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "write_info_into_image_bmp"
+                  moduleName = "Steganography"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniil/Desktop/University/2%20Semester/%D0%9E%D0%98%D0%91/Steganography_OIB8/Steganography/Steganography/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6D11B84-EA3B-42EB-9B18-0D70A1483AC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Steganography/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "get_size_secret_image_bmp(image)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "F6D11B84-EA3B-42EB-9B18-0D70A1483AC4 - e0562d4a59fb33f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "get_size_secret_image_bmp"
+                  moduleName = "Steganography"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniil/Desktop/University/2%20Semester/%D0%9E%D0%98%D0%91/Steganography_OIB8/Steganography/Steganography/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F6D11B84-EA3B-42EB-9B18-0D70A1483AC4 - e0562d4a59fb33d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "get_size_secret_image_bmp"
+                  moduleName = "Steganography"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniil/Desktop/University/2%20Semester/%D0%9E%D0%98%D0%91/Steganography_OIB8/Steganography/Steganography/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "570E1419-86C7-411B-A9B2-8B6A0B1E83A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Steganography/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "unhide()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "570E1419-86C7-411B-A9B2-8B6A0B1E83A3 - 9a37bbdb131dcbb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unhide"
+                  moduleName = "Steganography"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniil/Desktop/University/2%20Semester/%D0%9E%D0%98%D0%91/Steganography_OIB8/Steganography/Steganography/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "570E1419-86C7-411B-A9B2-8B6A0B1E83A3 - 9a37bbdb131dcb96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unhide"
+                  moduleName = "Steganography"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniil/Desktop/University/2%20Semester/%D0%9E%D0%98%D0%91/Steganography_OIB8/Steganography/Steganography/main.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
